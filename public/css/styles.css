@@ -30,7 +30,7 @@ header{
     text-align: center;
 }
 .main-header-top-bar{
-    position: fixed;
+    
 }
 .burger-menu{
     color: #fff;
@@ -127,14 +127,14 @@ main section div.products{
 }
 @media (min-width: 361px){
     .main-header-top-bar{
-        position: fixed;
+        
     }
 }
 @media (min-width: 768px){
     .main-header-top-bar{
         display: flex;
         justify-content: space-between;
-        position: fixed;
+        
     }
     .main-header-top-bar{
         align-items: center;
